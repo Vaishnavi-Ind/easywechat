@@ -1,4 +1,4 @@
-# [EasyWeChat](https://easywechat.com)new
+# [EasyWeChat](https://easywechat.com)
 
 📦 一个 PHP 微信开发 SDK，开源 SaaS 平台提供商 [微擎](https://www.w7.cc/) 旗下开源产品。
 
